@@ -105,3 +105,4 @@ Thumbs.db
 
 # Server
 server/node_modules
+.vercel
