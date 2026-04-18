@@ -69,7 +69,7 @@ Set these Vercel environment variables:
 ```bash
 VITE_SOCKET_URL=https://your-render-backend.onrender.com
 VITE_TURN_URL=turn:free.expressturn.com:3478
-VITE_TURN_USERNAME=000000002091900009
+VITE_TURN_USERNAME=your-turn-username
 VITE_TURN_CREDENTIAL=your-turn-credential
 ```
 
